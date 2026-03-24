@@ -88,6 +88,5 @@ uvicorn main:app --reload --host 0.0.0.0 --port 8000
 
 https://huggingface.co/spaces/xiajingfeng/shufa
 
-https://xjf123.dy.takin.cc
 
 ![screenshot](/assets/screenshot2.png)
